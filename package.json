@@ -1,0 +1,16 @@
+{
+  "name": "awslambda",
+  "version": "1.0.0",
+  "description": "aws lambda with docker container",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiayan guo",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "get-stream": "^6.0.0",
+    "pdfkit": "^0.11.0"
+  }
+}
